@@ -1,0 +1,3 @@
+[submodule "Fritzing-Parts"]
+	path = Fritzing-Parts
+	url = https://github.com/Reflejo/Fritzing-Parts
